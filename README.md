@@ -9,7 +9,7 @@ make build
 run:
 
 ```sh
-make run
+./caching-proxy --port <number> --origin <url>
 ```
 
 test:
